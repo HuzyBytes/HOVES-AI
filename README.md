@@ -1,4 +1,4 @@
-<h1>HOVES: Biometric Analysis Suite (v2.1)
+<h1>HOVES: Biometric Analysis Suite (v2.1)<h1>
   
 HOVES is a medical-grade facial anthropometry system that leverages computer vision and generative AI to provide data-driven aesthetic assessments. Built on a 100% Python stack, it transforms 468-point facial landmarks into clinical metrics and actionable grooming insights.
 
